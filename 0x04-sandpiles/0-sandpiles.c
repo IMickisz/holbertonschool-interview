@@ -1,7 +1,7 @@
 #include "sandpiles.h"
 
 /**
- * print_gride - print grid
+ * print_grid - print a grid
  * @grid: grid to print
  * Return: Nothing
  */
